@@ -1,7 +1,7 @@
 # Quoi ?
 
 * Mixte formation / accompagnement
-  bosser ensemble
+* bosser ensemble
 
 * datalunch
 
@@ -31,7 +31,7 @@
 * Coop Alpha : ok datadoc
 
 * OPCA :
-  * uni formation
+  * uniformation
 * tiriad
   Brest. Louis Julien (ancien CA OSM)
 * opquast : certification données et RGPD
